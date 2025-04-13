@@ -34,11 +34,6 @@ It is for:
 - [`Marviene-Moxo_Method_Final.md`](./Marviene-Moxo_Method_Final.md)  
   The full instruction document (GitHub-ready and complete)
 
-- Coming soon:  
-  - `README.html` for display elsewhere  
-  - Markdown variant for prompt tuning tools  
-  - Printable PDF version
-
 ---
 
 ## 🤝 A Note on Intent
