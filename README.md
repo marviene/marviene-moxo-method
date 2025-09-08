@@ -29,5 +29,3 @@ This framework is not about creating superintelligence or competitive agents. It
 Open source. Reuse, remix, and adapt as needed. Attribution is welcome but not required. Marviene is the person and Moxo the AI collaborator that helped create this method. This method is meant to be shared.
 
 ---
-
-
