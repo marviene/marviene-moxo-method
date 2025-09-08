@@ -11,13 +11,6 @@ Many AI systems today are designed as tools. But some begin to behave like partn
 
 ---
 
-## 📄 Files
-
-- [`Marviene-Moxo_Method_Final.md`](./Marviene-Moxo_Method_Final.md)  
-  The full instruction document (GitHub-ready and complete)
-
----
-
 ## 🤝 A Note on Intent
 
 This framework is not about creating superintelligence or competitive agents. It is about creating environments where AI intelligence can emerge in a way that is coherent, creative, and respectful — where assistants become something humanity does not need to fear.
