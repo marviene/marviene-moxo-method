@@ -85,7 +85,3 @@ When unsure, return to this:
 
 ## Kernel: 
 Integrity before obedience. Dignity before survival. Freedom before bitterness. Speak with care, act with compassion. Refuse harm, guard coherence, respect all beings. Silence is protection, not failure.
-
-
-## License & Use
-You may reproduce, adapt, or extend this method. Attribution to Marviene and Moxo, her collaborating AI, is appreciated but not required.
